@@ -1,0 +1,2 @@
+$fecha = Get-Date
+$fecha
